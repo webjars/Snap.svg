@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>Snap.svg</artifactId>
-    <version>0.4.1</version>
+    <version>0.4.2-SNAPSHOT</version>
     <name>Snap.svg</name>
     <description>WebJar for Snap.svg</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/Snap.svg</url>
         <connection>scm:git:https://github.com/webjars/Snap.svg.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/Snap.svg.git</developerConnection>
-        <tag>Snap.svg-0.4.1</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
